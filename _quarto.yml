@@ -9,7 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - project.qmd
+      - Labs.qmd
+      - Presentation.qmd
+  
 format:
   html:
     theme: darkly
