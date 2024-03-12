@@ -11,6 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
+<<<<<<< HEAD
     "text": "Chloe\n\n\nHello!\nI am currently a senior biology major at the University of Massachusetts Amherst. I have a strong academic background in molecular biology, biochemistry, and cancer genetics. My hands-on experience extends to both academia and pharmaceutical environments, providing me with knowledge about automated western blotting, PCR techniques, cell culture, and more.\nMy passion lies in cancer research and I am actively seeking a position in cancer biology, specifically involving mutations in the signaling cascade pathways such as MAPK or PI3K. However, I am very open minded and am ready to learn in any focus or techniques pertaining to the ever evolving realm of cancer research.\nI invite you to connect with me and feel free to message if you have any questions or if there are available positions that align with my skills and aspirations!"
   },
   {
@@ -33,5 +34,8 @@
     "title": "Presentation",
     "section": "",
     "text": "This is the section for presentations!"
+=======
+    "text": "Microbial Water Color by MIchelle Banks"
+>>>>>>> af5b5060678b3cb08b6e2c1687de10a03eb6bae9
   }
 ]
